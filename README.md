@@ -1,4 +1,4 @@
-# Project2
+# SDS Test Plan
 # Group Members
 Way2Farr - Nathan Gozun  
 admlars2 - Adam Larson  
